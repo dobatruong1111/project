@@ -2,8 +2,8 @@
 ### Input : số nguyên n
 ### Output : chuỗi các số nhị phân
 ### Describe :
-    + Trường hợp suy biến : Khi n chia nguyên cho 2 bằng 0 thì trả lại n chia dư 2
-    + Trường hợp chung : Sử dụng lời gọi đệ quy với tham số n chia nguyên cho 2 rồi ghép với xâu n chia dư 2
+- Trường hợp suy biến : Khi n chia nguyên cho 2 bằng 0 thì trả lại n chia dư 2
+- Trường hợp chung : Sử dụng lời gọi đệ quy với tham số n chia nguyên cho 2 rồi ghép với xâu n chia dư 2
 
 ## PHÂN TÍCH SỐ NGUYÊN THÀNH TÍCH CÁC THỪA SỐ NGUYÊN TỐ
 ### Input : số nguyên n, mảng các số nguyên tố nhỏ hơn hoặc bằng n (primes), vị trí duyệt mảng các số nguyên tố (index)
